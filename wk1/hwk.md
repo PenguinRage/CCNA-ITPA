@@ -16,8 +16,8 @@
 
 ##### 3. You have the following address: 192.16.5.133/29
 How many total bits are being used to identify the network, and how many total bits identify the host?
-Number of bits to define network: 29
-Number of remaining bits defines the host: 3
+ * Number of bits to define network: 29
+ * Number of remaining bits defines the host: 3
 
 ##### 4. What is the full subnet mask for address 172.16.5.10/28?
 255.255.255.240
