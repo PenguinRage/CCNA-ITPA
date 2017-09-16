@@ -32,3 +32,17 @@ Subnet: 255.255.255.248
 |  2 | 192.168.1.8  | 192.168.1.1->.14  | 192.168.1.15  |
 | .. | ............ | ................. | ............. |
 | 32 |192.168.1.248 | 192.168.1.248->254| 192.168.1.255 |
+
+##### 6. You still are using the default mask for your IP network 192.168.1.0. You need to subnet your network so that you have 5 additional networks, and 60 hosts per network. Is this possible, and what subnet mask should you use?
+ * No it isn't possible as you require 3 bits to get 2^3 subnets and the two left over bits only offers 2^5 - 2 hosts
+
+##### 7. You have a network address of 192.168.1.0 with a subnet mask of 255.255.255.240. Calculate the following:
+##### The number of valid available networks
+
+| Questions |  Answer    |
+| --------- | ---------- |
+| The number of valid available networks | 16 |
+| The number of hosts per network | 14 |
+| The full range of the first available network | 192.168.1.0-15 |
+| The usable address range for that first network | 192.168.1.1-14 |
+
