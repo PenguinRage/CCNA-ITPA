@@ -46,3 +46,13 @@ Subnet: 255.255.255.248
 | The full range of the first available network | 192.168.1.0-15 |
 | The usable address range for that first network | 192.168.1.1-14 |
 
+##### 8. You have a network address of 200.138.1.0 with a subnet mask of 255.255.255.252. Calculate the following:
+
+| Questions |  Answer    |
+| --------- | ---------- |
+| The number of valid available networks | 64 |
+| The number of hosts per network | 2 |
+| The full range of the first three networks | 192.168.1.0-3, 192.168.1.4-7, 192.168.1.8-11 |
+| The usable address range from those first three networks | 192.168.1.1-2,  192.168.1.5-6, 192.168.1.9-10 |
+| The broadcast address for each of the first three networks | 192.168.1.3, 192.168.1.7, 192.168.1.11 |
+
