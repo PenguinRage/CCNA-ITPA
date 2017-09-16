@@ -23,6 +23,9 @@ How many total bits are being used to identify the network, and how many total b
 255.255.255.240
 
 ##### 5. You currently use the default mask for your IP network 192.168.1.0. You need to subnet your network so that you have 30 additional networks, and 4 hosts per network. Is this possible, and what subnet mask should you use?
+
+Subnet: 255.255.255.248
+
 | No | Network Addr | Host Addr         |  Broadcast    |
 | -- | ------------ | ----------------- | ------------- |
 |  1 | 192.168.1.0  | 192.168.1.1->.6   | 192.168.1.7   |
