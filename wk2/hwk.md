@@ -1,3 +1,5 @@
+## Discussion 1
+
 Discuss why spanning-tree protocol is important to a well designed network. 
 
 What is its primary purpose?
@@ -23,6 +25,7 @@ Some of the features present in spanning tree protocol that prevents loops from 
 
 My number one tip while configuring STP is that, after enabling a version of Spanning- Tree Protocol on switch, I need to configure some of the options for the STP, with the biggest option being one of the fast technologies e.g.  PortFast.
 
+## Discussion 2
 
 Discuss the advantages of virtual interfaces over physical interfaces.
 
