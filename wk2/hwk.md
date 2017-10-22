@@ -1,11 +1,11 @@
 ## Discussion 1
 
-Discuss why spanning-tree protocol is important to a well designed network. 
+#### Discuss why spanning-tree protocol is important to a well designed network. 
 
-What is its primary purpose?
-What features does it have that prevent loops from occuring? 
-What is your number 1 best tip when configuring spanning-tree? 
-Reply to at least one other students post.
+##### What is its primary purpose?
+##### What features does it have that prevent loops from occuring? 
+##### What is your number 1 best tip when configuring spanning-tree? 
+##### Reply to at least one other students post.
 
 All Cisco switches run the 802.1d Spanning- Tree Protocol on any active VLAN by default. The primary purpose of Spanning- Tree Protocol is to block bridging loops.
 
@@ -27,8 +27,8 @@ My number one tip while configuring STP is that, after enabling a version of Spa
 
 ## Discussion 2
 
-Discuss the advantages of virtual interfaces over physical interfaces.
+##### Discuss the advantages of virtual interfaces over physical interfaces.
 
-How do virtual interfaces enable better scalability in design?
+##### How do virtual interfaces enable better scalability in design?
 
 Physical interfaces can be easier to manage and fault find as in the case of a server connected to a switch by a physical cable.  There are diagnostic lights, you can physically check connectivity and condition of the cable and the OS can provide very useful indicators of the state of the connection.
